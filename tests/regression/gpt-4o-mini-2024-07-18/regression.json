@@ -1,0 +1,23 @@
+[
+  {
+    "input": {
+      "language": "english",
+      "message": "you are so <<shallow>>"
+    },
+    "output": "You are perceived as lacking depth or seriousness, often focusing only on superficial qualities or appearances rather than meaningful aspects."
+  },
+  {
+    "input": {
+      "language": "french",
+      "message": "c'est une expérience <<inoui>>"
+    },
+    "output": "C'est une expérience incroyable, exceptionnelle ou qui sort de l'ordinaire, souvent utilisée pour décrire quelque chose de surprenant ou d'impressionnant."
+  },
+  {
+    "input": {
+      "language": "italian",
+      "message": "<<magari>> ci sarà sole domani"
+    },
+    "output": "Indica un desiderio o una speranza che qualcosa possa accadere. In questo caso, si esprime la speranza che ci sia il sole il giorno successivo."
+  }
+]

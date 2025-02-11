@@ -1,0 +1,23 @@
+[
+  {
+    "input": {
+      "language": "english",
+      "message": "you are so <<shallow>>"
+    },
+    "output": "You are superficial or lacking depth in your thoughts, emotions, or actions."
+  },
+  {
+    "input": {
+      "language": "french",
+      "message": "c'est une expérience <<inoui>>"
+    },
+    "output": "Exceptionnel, incroyable, extraordinaire."
+  },
+  {
+    "input": {
+      "language": "italian",
+      "message": "<<magari>> ci sarà sole domani"
+    },
+    "output": "Indica una speranza, un desiderio, una possibilità più o meno probabile che si realizzi."
+  }
+]

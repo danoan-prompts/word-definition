@@ -1,0 +1,23 @@
+[
+  {
+    "input": {
+      "language": "english",
+      "message": "you are so <<shallow>>"
+    },
+    "output": null
+  },
+  {
+    "input": {
+      "language": "french",
+      "message": "c'est une expérience <<inoui>>"
+    },
+    "output": null
+  },
+  {
+    "input": {
+      "language": "italian",
+      "message": "<<magari>> ci sarà sole domani"
+    },
+    "output": null
+  }
+]
