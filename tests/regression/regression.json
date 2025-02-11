@@ -1,0 +1,39 @@
+[
+  {
+    "input": {
+      "language": "english",
+      "message": "you are so <<shallow>>"
+    },
+    "output": [
+      "Of little depth.",
+      "(of a person) lacking depth of understanding, emotion, or knowledge.",
+      "lacking depth; superficial.",
+      "not exhibiting, requiring, or capable of serious thought.",
+      "consisting of or involving superficial aspects only; slight."
+    ]
+  },
+  {
+    "input": {
+      "language": "french",
+      "message": "c'est une expérience <<inoui>>"
+    },
+    "output": [
+      "Qui est si extraordinaire, si incroyable qu'on ne peut le croire.",
+      "Dont l'importance, l'ampleur, la gravité dépassent l'entendement.",
+      "Qui est si exceptionnel, si remarquable qu'il est difficile à concevoir.",
+      "Qui est étonnant, prodigieux, merveilleux.",
+      "Qui dépasse tout ce qui est imaginable, qui est incroyable."
+    ]
+  },
+  {
+    "input": {
+      "language": "italian",
+      "message": "<<magari>> ci sarà sole domani"
+    },
+    "output": [
+      "Da sola nelle risposte o anteposta per rinforzo a una frase ottativa esprime auspicio, desiderio o rimpianto per qualcosa.",
+      "Piuttosto, perfino, in una comparazione di preferenza, espressa da una coordinata avversativa.",
+      "Con valore frasale, forse, probabilmente."
+    ]
+  }
+]
